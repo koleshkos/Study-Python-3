@@ -1,4 +1,4 @@
  # Study-Python-3
 Python repository
 
-Hi, my name Sergey, I am begginer programmer. I love Python and now i learnig this language in Steptik.
+Hi, my name is Sergey, I'm beginner in programming. I love Python and now I'm learnig this language in Steptik.
