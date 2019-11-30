@@ -21,7 +21,7 @@ n.sort()
 k = 0
 for i in range(len(n)):
     k = 0
-    for j in range((i),(len(n))):
+    for j in range(i,(len(n))):
         if(n[i]==n[j]):
             k+=1
     if (k == 2):
